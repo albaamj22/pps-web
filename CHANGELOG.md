@@ -1,5 +1,5 @@
 # Changelog
-
+# Pruebas
 _Generado el 2026-11-04_
 
 ## Nuevas funcionalidades
